@@ -1,0 +1,46 @@
+1
+8
+8
+
+lw 0
+lw 4
+lw 8
+lw 12
+lw 16
+lw 20
+lw 24
+lw 28
+dump
+show
+
+sw 12 1
+show
+dump
+sw 24 2
+show
+dump
+sw 4 4
+show
+dump
+sw 24 8
+show
+dump
+lw 4
+show
+dump
+lw 20
+dump
+show
+
+lw 64
+lw 68
+lw 72
+lw 76
+lw 80
+lw 84
+lw 88
+lw 92
+dump
+show
+
+quit
